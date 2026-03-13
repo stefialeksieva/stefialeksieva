@@ -66,4 +66,5 @@ Results‑driven DevOps Engineer with strong expertise in Linux systems, automat
 ---
 
 ## 🤝 Let’s Connect
+LinkedIn: [https://bg.linkedin.com/in/stefanka-aleksieva-612562148](https://bg.linkedin.com/in/stefanka-aleksieva-612562148)
 I’m always open to connecting with DevOps engineers, SREs, platform engineers, and anyone passionate about automation and infrastructure.
