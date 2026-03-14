@@ -35,10 +35,10 @@ Results‑driven DevOps Engineer with strong expertise in Linux systems, automat
 ## 🏅 Certifications
 
 ### 🎓 Industry‑Recognized
-- **Linux Foundation Certified System Administrator (LFCS)** — *Paid & Passed*  
+- **Linux Foundation Certified System Administrator (LFCS)**
   - 📄 [View Certificate](https://github.com/stefialeksieva/stefialeksieva/blob/main/certificates/Stefanka-Aleksieva-the-Linux-Foundation-Certified-SysAdmin-LFCS.pdf)
 
-- **Slurm Workload Manager Certification** — *Paid & Completed*  
+- **Slurm Workload Manager Certification** 
   - 📄 [View Certificate](https://github.com/stefialeksieva/stefialeksieva/blob/main/certificates/Slurm%20certificate%20Aleksieva%20Stefanka.pdf)
 
 ### 📘 Additional Hands‑On Learning
