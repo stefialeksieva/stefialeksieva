@@ -41,6 +41,13 @@ Results‑driven DevOps Engineer with strong expertise in Linux systems, automat
 - **Slurm Workload Manager Certification** 
   - 📄 [View Certificate](https://github.com/stefialeksieva/stefialeksieva/blob/main/certificates/Slurm%20certificate%20Aleksieva%20Stefanka.pdf)
 
+- **Shell Scripting using Bash Certification** 
+  - 📄 [View Certificate](https://github.com/stefialeksieva/stefialeksieva/blob/main/certificates/Linux-Foundation-SkillCred-stefanka-aleksieva-d0d94cf3-bd74-4b4c-9055-11f5fea1451d-certificate.pdf)
+
+- **IBM Storage Scale Basic Administration for Linux and AIX H005G Certification** 
+  - 📄 [View Certificate](https://github.com/stefialeksieva/stefialeksieva/blob/main/certificates/Stefanka%20Aleksieva%20-%20IBM%20Storage%20Scale%20Basic%20Administration%20for%20Linux%20and%20AIX%20H005G%20-%20Koenig%20platform.pdf)
+    
+
 ### 📘 Additional Hands‑On Learning
 - Practical labs in automation, monitoring, and DevOps tooling  
 - Selected Udemy certifications in **Ansible**, **Grafana**, and **Linux/Red Hat Administration**
